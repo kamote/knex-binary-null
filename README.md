@@ -1,0 +1,1 @@
+# knex-binary-null
