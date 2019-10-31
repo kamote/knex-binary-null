@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "knex": "^0.19.0",
+    "knex": "^0.19.5",
     "mssql": "^5.1.0"
   }
 }
